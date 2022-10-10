@@ -1,0 +1,11 @@
+[
+    {"id" : 1, "cantidad" : 1, "nombre" : "Mugiwara", "tamaño" : "10x10", "precio" : 200, "imagen" : "./img/mugiwara.jpg", "anime" : "One Piece"},
+    { "id" : 2, "cantidad" : 1, "nombre" : "Luffy", "tamaño" : "8x8", "precio" : 150, "imagen" : "./img/luffy.png", "anime" : "One Piece" },
+    { "id" : 3, "cantidad" : 1, "nombre" : "Zoro", "tamaño" : "8x8", "precio" : 150, "imagen" : "./img/zoro.jpg", "anime" : "One Piece" },
+    { "id" : 4, "cantidad" : 1, "nombre" : "Goku", "tamaño" : "8x8", "precio" : 150, "imagen" : "./img/goku.png", "anime" : "Dragon Ball Z" },
+    { "id" : 5, "cantidad" : 1, "nombre" : "Vegeta", "tamaño" : "6x6", "precio" : 120, "imagen" : "./img/vegeta.png", "anime" : "Dragon Ball Z" },
+    { "id" : 6, "cantidad" : 1, "nombre" : "Kid Buu", "tamaño" : "6x6", "precio" : 120, "imagen" : "./img/boo.jpg", "anime" : "Dragon Ball Z" },
+    { "id" : 7, "cantidad" : 1, "nombre" : "Tanjiro", "tamaño" : "8x8", "precio" : 150, "imagen" : "./img/tanjiro.png", "anime" : "Kimetsu no Yaiba" },
+    { "id" : 8, "cantidad" : 1, "nombre" : "Inosuke", "tamaño" : "6x6", "precio" : 120, "imagen" : "./img/inosuke.png", "anime" : "Kimetsu no Yaiba" },
+    { "id" : 9, "cantidad" : 1, "nombre" : "Zenitsu", "tamaño" : "6x6", "precio" : 120, "imagen" : "./img/zenitsu.png", "anime" : "Kimetsu no Yaiba" }
+    ]

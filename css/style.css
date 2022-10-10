@@ -1,0 +1,110 @@
+@import url('https://fonts.googleapis.com/css2?family=Permanent+Marker&display=swap');
+
+
+.fondoBody{
+    background-image: url(https://i.etsystatic.com/27448597/r/il/d9d5b5/2934931410/il_570xN.2934931410_bz9g.jpg);
+}
+
+.footer {
+    width: 100px;
+    margin-left: 30px;
+}
+
+.sectionFooter{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: black;
+    box-shadow: 2px 4px 9px 3px black;
+}
+
+.diseñoCard{
+    box-shadow: 1px 0px 20px 10px #00000099;
+    transition: all 1.3s ease;
+}
+
+.diseñoCard:hover{
+    transform: scale(1.05);
+            filter: drop-shadow(0px 0px 10px black);
+}
+
+.sectionDiseño{
+    padding: 40px;
+}
+
+.boton-carrito-diseño{
+    transition: all 1.02s ease;
+}
+
+.boton-carrito-diseño:hover{
+    /* transform: scale(1.05); */
+    filter: drop-shadow(0px 0px 5px rgb(255, 255, 255));
+}
+
+.boton-buscar-diseño{
+    transition: all 1.02s ease;
+    
+}
+
+.boton-buscar-diseño:hover{
+    filter: drop-shadow(0px 0px 5px rgb(255, 255, 255));
+}
+
+.buscadorCarrito{
+    display: flex;
+    background: #00000085;
+    box-shadow: 2px 4px 9px 3px black;
+    align-items: center;
+    padding: 0px 80px 0px 80px;
+    justify-content: space-between;
+}
+
+
+
+.modal-body{
+    padding: 0px;
+}
+
+.estilo-carrito{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+
+
+.fas.fa-trash-alt{
+    color: #a70000;
+}
+
+.contenido {
+    display: flex;
+}
+
+
+.contenidoDos {
+    display: flex;
+}
+
+.header {
+    background-color: rgb(0, 0, 0);
+    height: 150px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    font-family: 'Permanent Marker', cursive;
+}
+
+.header h1 {
+    background: rgb(250, 251, 15);
+    background: linear-gradient(90deg, rgba(250, 251, 15, 1) 0%, rgba(159, 141, 3, 1) 33%, rgba(179, 129, 2, 1) 49%, rgba(255, 67, 0, 1) 100%);
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
+}
+
+.logo {
+    height: 87px;
+    width: 304px;
+}
